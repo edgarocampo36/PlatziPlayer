@@ -1,0 +1,21 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript",
+  "author": "Edgar Ocampo <edgarocampo36@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html typescript/index.html"
+  },
+  "keywords": [
+    "platzi"
+  ],
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.2"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
