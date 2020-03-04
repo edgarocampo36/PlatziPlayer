@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html typescript/index.html"
+    "start": "parcel index.html typescript/index.html typescript/**/*.html"
   },
   "keywords": [
     "platzi"
